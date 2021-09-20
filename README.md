@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shyam-Gi
 - 👀 I’m interested in signal processing, music, ML, and data science
-- 🌱 I’m currently learning data science, image processing
+- 🌱 I’m currently learning signal processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
