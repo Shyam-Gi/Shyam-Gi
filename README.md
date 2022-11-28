@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shyam-Gi
-- 👀 I’m interested in signal processing, music, ML, and data science
-- 🌱 I’m currently learning deep learning and nlp
-- 💞️ I’m looking to collaborate on any sort of data science project
+- 👀 A keen tech enthusiast interested on cloud, data, and security. Have fun with sound and music
+- 🌱 Imtermediate in Machine Learning, Deep Learning. Deployed apps on Kubernetes, docker.
+- 💞️ I’m looking to collaborate on any sort of project related to cloud and artificial intelligence
 
 <!---
 Shyam-Gi/Shyam-Gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
